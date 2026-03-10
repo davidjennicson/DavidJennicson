@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Currently: Exploring new technologies and working on personal projects to enhance my skills.<br><br>🌱 Interests: Backend Development, Full Stack Development, Software Engineering, Machine Learning.<br><br>👨‍💻 Tech Stack: Python, Java, C++, ReactJS, MongoDB, TensorFlow, Git.<br><br>🚀 Projects:<br> 
-<li>Fake News Detection Model</li>
+<li>Salvation Army Hymns (Devotional app with 2k+ users )</li>
 <li>Hateful Meme Identification using Knowledge Graphs</li>
 <li>Full Stack Web Development Projects (Spring Boot, React, PostgreSQL, Flask, MongoDB, React).</li><br>📚 Education: Pursuing a Bachelor of Engineering in Electronics and Computer Science from  Mumbai.<br><br>
 
